@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     - nicolascouture@invue.com
-    - 514-700-4321
     - PGP: https://keys.openpgp.org/search?q=2E49719958B8E97D01CF299A219727284AC8B1C6
 
 <!---
