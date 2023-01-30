@@ -1,7 +1,7 @@
 
 ## Contact
 
-📫 nicolascouture@invue.com
+~📫 nicolascouture@invue.com~
 
 https://keys.openpgp.org/vks/v1/by-fingerprint/6CF68E642C1A9A3AE9BCDDDD24873988C665A582
 ```
